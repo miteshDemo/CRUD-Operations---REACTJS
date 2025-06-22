@@ -131,7 +131,6 @@ const App = () => {
         </Box>
 
         <Divider sx={{ my: 4 }} />
-
         <Typography variant="h6" gutterBottom>User List</Typography>
 
         {users.length === 0 ? (
